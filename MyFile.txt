@@ -1,1 +1,2 @@
-This is a update to my updated file.
+This is another update to my updated file.
+This is a new line to my file.
